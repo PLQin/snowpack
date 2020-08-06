@@ -1,6 +1,9 @@
 import React from 'react';
+import fake from 'fake';
 import logo from './logo.svg';
 import './App.css';
+
+fake();
 
 interface AppProps {}
 
